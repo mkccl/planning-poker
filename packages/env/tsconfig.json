@@ -1,0 +1,3 @@
+{
+  "extends": "@planning-poker-nextjs/config/tsconfig.base.json"
+}
