@@ -18,8 +18,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "planning-poker-nextjs",
-  description: "planning-poker-nextjs",
+  title: "Planning Poker",
+  description: "Real-time planning poker for agile teams",
 };
 
 export default function RootLayout({

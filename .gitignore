@@ -48,3 +48,6 @@ coverage
 .cache
 tmp
 temp
+
+# Agent instructions
+AGENTS.md
