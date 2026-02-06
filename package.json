@@ -1,6 +1,9 @@
 {
   "name": "planning-poker-nextjs",
   "private": true,
+  "engines": {
+    "node": ">=20.9.0"
+  },
   "workspaces": [
     "apps/*",
     "packages/*"
